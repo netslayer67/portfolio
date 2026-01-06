@@ -1,23 +1,18 @@
 export const projects = [
   {
-    title: 'Premium Coffee Landing',
-    role: 'Lead UI Engineer',
-    summary: 'Rebuilt the main landing page to improve clarity, visuals, and conversions.',
-    impact: 'Boosted lead signups by 28 percent.',
-    stack: ['React', 'Tailwind', 'AOS'],
-  },
-  {
-    title: 'E-Commerce Product Suite',
+    title: 'Digital Media Agency Business Portfolio',
     role: 'Front-End Developer',
-    summary: 'Designed a consistent UI kit and new product detail flow.',
-    impact: 'Improved checkout completion by 17 percent.',
-    stack: ['React', 'Design System', 'Vite'],
+    summary: 'Created a premium business portfolio that highlights services and brand story.',
+    impact: 'Strengthened brand credibility and inquiry readiness.',
+    stack: ['React', 'Brand UX', 'Vite'],
+    link: 'https://ghgambit.vercel.app/',
   },
   {
-    title: 'Portfolio Case Study Hub',
+    title: 'Basketball Club Profile Website',
     role: 'Full-Stack Contributor',
-    summary: 'Created a narrative-driven case study layout with performance focus.',
-    impact: 'Reached 96+ Lighthouse scores consistently.',
+    summary: 'Built a club profile site that showcases team identity, roster, and events.',
+    impact: 'Boosted visibility for programs and member activities.',
     stack: ['React', 'Content UX', 'Performance'],
+    link: 'https://ghgambit.vercel.app/',
   },
 ];

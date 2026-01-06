@@ -22,14 +22,19 @@ export const scopeOfWork = [
       'Improved Lighthouse score from 88 to 96.',
     ],
     evidence: ['Role Description.pdf', 'Sprint Report Q1', 'Performance Review'],
+    evidencePhotos: [
+      { src: '/images/job1.jpg', label: 'Landing Page IntegralApp' },
+      { src: '/images/job2.jpg', label: 'Check-in Method' },
+      { src: '/images/job3.jpg', label: 'MTSS Dashboard' },
+    ],
   },
   {
     id: 'scope-cross',
     title: 'Cross-Unit Projects',
     description:
-      'Collaborated with marketing, operations, and training teams for semester-wide initiatives.',
+      'Make the main website look fresher and migrate from using WordPress to Coding.',
     tasks: [
-      'Built landing pages for campaigns and recruitment.',
+      'Creating a redesign and layout for the MWS landing page to make it look more modern and fresher.',
       'Created dashboards to support internal operations.',
       'Aligned visual language across multiple stakeholders.',
     ],
@@ -39,39 +44,51 @@ export const scopeOfWork = [
       'Received positive feedback from unit leads.',
     ],
     evidence: ['Cross-Unit Briefs', 'Launch Deck', 'Stakeholder Notes'],
-  },
-  {
-    id: 'scope-others',
-    title: 'Others / PIC Event',
-    description:
-      'Handled ad-hoc assignments and PIC responsibilities for events and internal initiatives.',
-    tasks: [
-      'Prepared event microsites and documentation.',
-      'Managed timeline communications with multiple teams.',
-      'Built visual recap materials for stakeholders.',
+    evidencePhotos: [
+      { src: '/images/x1.jpg', label: 'MWS landing redesign' },
+      { src: '/images/x2.jpg', label: 'New UI For Admission Application' },
     ],
-    achievements: [
-      'Successfully coordinated 2 internal events.',
-      'Produced recap assets within 48 hours after events.',
-      'Maintained consistent brand tone across outputs.',
-    ],
-    evidence: ['Event Proposal', 'Recap Slides', 'PIC Task Letter'],
   },
+  // {
+  //   id: 'scope-others',
+  //   title: 'Others / Logistics Team',
+  //   description:
+  //     'Assist the team in event agenda and prepare logistical needs before and during the event',
+  //   tasks: [
+  //     'Preparing logistics for the PICs.',
+  //     'Ensure all logistical needs are ready before and during the event.',
+  //     'Carry out active coordination with fellow colleagues and the Operational Team.',
+  //   ],
+  //   achievements: [
+  //     // 'Successfully coordinated 2 internal events.',
+  //     // 'Produced recap assets within 48 hours after events.',
+  //     // 'Maintained consistent brand tone across outputs.',
+  //   ],
+  //   evidence: [],
+  //   evidencePhotos: [
+  //     { src: '/images/evidence-1.svg', label: 'Event logistics prep' },
+  //     { src: '/images/evidence-2.svg', label: 'On-site coordination' },
+  //   ],
+  // },
   {
     id: 'scope-development',
     title: 'Personal Development',
     description:
-      'Professional growth through workshops, seminars, and certifications aligned with role requirements.',
+      'Professional growth through Responsive communication training taught by Tr.Abu',
     tasks: [
-      'Attend UX workshops and front-end bootcamps.',
-      'Apply new learning to live projects.',
+      'Learn the difference between reactive and responsive communication.',
+      'Identify from a simple conversation and determine whether it is reactive or responsive communication.',
       'Share insights through team knowledge sessions.',
     ],
     achievements: [
-      'Completed 3 professional training programs.',
+      'Completed professional training programs.',
       'Delivered a knowledge-sharing session for the team.',
       'Earned certificates with documented outcomes.',
     ],
     evidence: ['Training Certificate', 'Assignment Letter', 'Workshop Notes'],
+    evidencePhotos: [
+      { src: '/images/evidence-3.svg', label: 'Training certificate' },
+      { src: '/images/evidence-1.svg', label: 'Workshop documentation' },
+    ],
   },
 ];

@@ -7,21 +7,21 @@ export const developmentEvidence = [
 
 export const certificates = [
   {
-    title: 'Front-End Excellence',
-    issuer: 'Digital Skill Academy',
-    date: 'Jan 2025',
-    image: '/images/certificate-1.svg',
+    title: 'Certificate of Appreciation',
+    issuer: '',
+    date: '2025',
+    image: '/images/certif1.jpg',
   },
   {
-    title: 'UI/UX Design Fundamentals',
-    issuer: 'Product Design Lab',
-    date: 'Mar 2025',
-    image: '/images/certificate-2.svg',
+    title: 'Certificate of Completion: Responsive Communication',
+    issuer: '',
+    date: '2025',
+    image: '/images/certif2.jpg',
   },
   {
-    title: 'Performance Optimization',
-    issuer: 'Web Performance Guild',
-    date: 'May 2025',
-    image: '/images/certificate-3.svg',
+    title: 'Award Badge : Future Framework Architect',
+    issuer: '',
+    date: '2025',
+    image: '/images/certif3.jpg',
   },
 ];

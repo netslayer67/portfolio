@@ -23,7 +23,7 @@ export const profile = {
 };
 
 export const stats = [
-  { label: 'Projects Delivered', value: '18+' },
-  { label: 'Design Iterations', value: '60+' },
-  { label: 'Average Lighthouse', value: '95+' },
+  // { label: 'Projects Delivered', value: '18+' },
+  // { label: 'Design Iterations', value: '60+' },
+  // { label: 'Average Lighthouse', value: '95+' },
 ];

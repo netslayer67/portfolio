@@ -8,9 +8,9 @@ const navItems = [
   { id: 'interests', label: 'Interests' },
   { id: 'projects', label: 'Projects' },
   { id: 'scope', label: 'Scope' },
-  { id: 'achievements', label: 'Achievements' },
+  // { id: 'achievements', label: 'Achievements' },
   { id: 'certifications', label: 'Development' },
-  { id: 'evidence', label: 'Evidence' },
+  // { id: 'evidence', label: 'Evidence' },
   { id: 'contact', label: 'Contact' },
 ];
 

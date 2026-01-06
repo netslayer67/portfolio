@@ -26,7 +26,7 @@ export const personality = [
 export const interests = [
   {
     title: 'Product Storytelling',
-    description: 'Turning complex products into clear, recruiter-friendly narratives.',
+    description: 'Turning complex products into clear.',
   },
   {
     title: 'UI Craftsmanship',
